@@ -36,3 +36,7 @@ Registration of Invoice
 Invoice table with Edit, Delete and Details buttons
 
 <img width="918" alt="Screen Shot 2022-08-15 at 5 28 04 PM" src="https://user-images.githubusercontent.com/64993553/184758363-ab736093-b57a-496a-b0e4-1a1567eecb8b.png">
+
+Layers and Architecture 
+
+<img width="1021" alt="Screen Shot 2022-08-16 at 12 18 04 PM" src="https://user-images.githubusercontent.com/64993553/184963749-3a778773-869c-48a6-a26c-f6873443e096.png">
