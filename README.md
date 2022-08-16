@@ -9,7 +9,7 @@ Registration of Employee
 
 <img width="751" alt="Screen Shot 2022-08-15 at 5 10 54 PM" src="https://user-images.githubusercontent.com/64993553/184756924-e3802a06-448a-40ee-b12d-38fa4e391bd2.png">
 
-Employees table
+Employees table with Edit, Delete and Details buttons
 
 <img width="907" alt="Screen Shot 2022-08-15 at 5 09 32 PM" src="https://user-images.githubusercontent.com/64993553/184757018-2f920d7c-8ea7-4d00-8cba-4a49be7282a5.png">
 
