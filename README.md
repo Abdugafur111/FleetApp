@@ -39,4 +39,4 @@ Invoice table with Edit, Delete and Details buttons
 
 Layers and Architecture 
 
-<img width="1021" alt="Screen Shot 2022-08-16 at 12 18 04 PM" src="https://user-images.githubusercontent.com/64993553/184963749-3a778773-869c-48a6-a26c-f6873443e096.png">
+<img width="904" alt="Screen Shot 2022-08-16 at 12 22 16 PM" src="https://user-images.githubusercontent.com/64993553/184964419-955bb510-9c2f-41d6-9195-202d897ec2bb.png">
