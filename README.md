@@ -20,6 +20,8 @@ Registration Vehicles
 Employees table with Edit, Delete and Details buttons
 
 <img width="1249" alt="Screen Shot 2022-08-15 at 5 20 57 PM" src="https://user-images.githubusercontent.com/64993553/184757761-2fe557f4-6445-4b75-b79f-66837d0ad27b.png">
-
+Invoice table with Edit, Delete and Details buttons
 
 <img width="573" alt="Screen Shot 2022-08-15 at 5 26 26 PM" src="https://user-images.githubusercontent.com/64993553/184758227-1219c33c-85fe-4821-8d57-75236ee90a35.png">
+
+<img width="918" alt="Screen Shot 2022-08-15 at 5 28 04 PM" src="https://user-images.githubusercontent.com/64993553/184758363-ab736093-b57a-496a-b0e4-1a1567eecb8b.png">
