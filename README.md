@@ -11,5 +11,6 @@ Registration of Employee
 
 Employees table with Edit, Delete and Details buttons
 
-<img width="907" alt="Screen Shot 2022-08-15 at 5 09 32 PM" src="https://user-images.githubusercontent.com/64993553/184757018-2f920d7c-8ea7-4d00-8cba-4a49be7282a5.png">
+<img width="1240" alt="Screen Shot 2022-08-15 at 5 15 57 PM" src="https://user-images.githubusercontent.com/64993553/184757345-6286999e-3d46-4886-b257-93c396db92ee.png">
+
 
