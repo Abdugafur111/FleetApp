@@ -13,4 +13,5 @@ Employees table with Edit, Delete and Details buttons
 
 <img width="1240" alt="Screen Shot 2022-08-15 at 5 15 57 PM" src="https://user-images.githubusercontent.com/64993553/184757345-6286999e-3d46-4886-b257-93c396db92ee.png">
 
+Similarly we can add, update and delete vehicles and accountings.  
 
