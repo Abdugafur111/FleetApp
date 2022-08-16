@@ -7,7 +7,7 @@ Main Page
 
 Registration of Employee 
 
-<img width="751" alt="Screen Shot 2022-08-15 at 5 10 54 PM" src="https://user-images.githubusercontent.com/64993553/184756924-e3802a06-448a-40ee-b12d-38fa4e391bd2.png">
+<img width="982" alt="Screen Shot 2022-08-15 at 5 14 56 PM" src="https://user-images.githubusercontent.com/64993553/184757269-25d7d6f1-c0d7-4bed-8c6b-e963b48972ca.png">
 
 Employees table with Edit, Delete and Details buttons
 
