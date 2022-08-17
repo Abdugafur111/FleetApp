@@ -9,6 +9,10 @@ Problem Statement: FleetApp is the platform for car dealerships where they manag
 Activities: Design of classes and interfaces. Object-oriented design methodologies and notations. Design patterns. Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering concepts and tools. 
 Requirements: Java Development Kit <= 11.
 
+Technologies: Spring boot, HTML, CSS, JS, MySQL
+
+
+
 Main Page
 
 <img width="1435" alt="Screen Shot 2022-08-15 at 4 36 18 PM" src="https://user-images.githubusercontent.com/64993553/184755380-08707ce2-0eeb-4e03-bd5d-15d650b413cc.png">
