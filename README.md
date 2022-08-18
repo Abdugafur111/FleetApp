@@ -19,11 +19,23 @@ Main Page
 
 Registration of Employee 
 
+
 <img width="982" alt="Screen Shot 2022-08-15 at 5 14 56 PM" src="https://user-images.githubusercontent.com/64993553/184757269-25d7d6f1-c0d7-4bed-8c6b-e963b48972ca.png">
 
 Employees table with Edit, Delete and Details buttons
 
 <img width="1240" alt="Screen Shot 2022-08-15 at 5 15 57 PM" src="https://user-images.githubusercontent.com/64993553/184757345-6286999e-3d46-4886-b257-93c396db92ee.png"> 
+
+
+
+https://user-images.githubusercontent.com/64993553/185282067-79e7c18f-9c0b-4d3d-9a48-0c02abd06a32.mov
+
+Registrating, Updating & Deleting of Countries
+
+
+https://user-images.githubusercontent.com/64993553/185282501-770312cf-b63f-4899-a4f3-fd27c273b1ca.mov
+
+
 
 Registration of Vehicles
 
